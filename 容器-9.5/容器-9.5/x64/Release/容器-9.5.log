@@ -1,0 +1,11 @@
+﻿  Main.cpp
+Main.cpp(26): error C3867: “std::deque<int,std::allocator<_Ty>>::clear”: 非标准语法；请使用 "&" 来创建指向成员的指针
+          with
+          [
+              _Ty=int
+          ]
+Main.cpp(27): error C3867: “std::deque<int,std::allocator<_Ty>>::clear”: 非标准语法；请使用 "&" 来创建指向成员的指针
+          with
+          [
+              _Ty=int
+          ]

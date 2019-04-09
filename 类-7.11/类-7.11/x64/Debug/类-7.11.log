@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\c++_primer\类-7.11\类-7.11\main.cpp(20): warning C4305: “参数”: 从“__int64”到“DWORD”截断
+d:\c++_primer\类-7.11\类-7.11\main.cpp(20): warning C4309: “参数”: 截断常量值
+  类-7.11.vcxproj -> D:\C++_Primer\类-7.11\x64\Debug\类-7.11.exe
+  类-7.11.vcxproj -> D:\C++_Primer\类-7.11\x64\Debug\类-7.11.pdb (Partial PDB)

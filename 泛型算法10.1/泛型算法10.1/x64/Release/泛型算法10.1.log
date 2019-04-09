@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2798): error C3892: “_Dest”: 不能给常量赋值
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2822): note: 参见对正在编译的函数 模板 实例化“_OutIt std::_Fill_n_unchecked1<_OutIt,std::_Diff,_Ty>(_OutIt,std::_Diff,const _Ty &,std::false_type)”的引用
+          with
+          [
+              _OutIt=const int *,
+              _Diff=unsigned __int64,
+              _Ty=int
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2831): note: 参见对正在编译的函数 模板 实例化“_OutIt std::_Fill_n_unchecked<const int*,std::_Diff,_Ty>(_OutIt,std::_Diff,const _Ty &)”的引用
+          with
+          [
+              _OutIt=const int *,
+              _Diff=unsigned __int64,
+              _Ty=int
+          ]
+  main.cpp(23): note: 参见对正在编译的函数 模板 实例化“_OutIt std::fill_n<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<int>>>,unsigned __int64,int>(_OutIt,std::_Diff,const _Ty &)”的引用
+          with
+          [
+              _OutIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              _Diff=unsigned __int64,
+              _Ty=int
+          ]

@@ -1,0 +1,8 @@
+﻿  Main.cpp
+d:\c++_primer\类-7.24\类-7.24\screen.h(11): error C2664: “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const std::allocator<char> &)”: 无法将参数 1 从“Screen::std::pos”转换为“const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &”
+          with
+          [
+              _Elem=char
+          ]
+  d:\c++_primer\类-7.24\类-7.24\screen.h(11): note: 原因如下: 无法从“Screen::std::pos”转换为“const std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+  d:\c++_primer\类-7.24\类-7.24\screen.h(11): note: 无构造函数可以接受源类型，或构造函数重载决策不明确

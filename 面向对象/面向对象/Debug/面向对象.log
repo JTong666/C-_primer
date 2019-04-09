@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\c++_primer\面向对象\面向对象\main.cpp(10): warning C4930: “Quote q2(void)”: 未调用原型函数(是否是有意用变量定义的?)
+d:\c++_primer\面向对象\面向对象\main.cpp(12): warning C4930: “Blk_quote b1(void)”: 未调用原型函数(是否是有意用变量定义的?)
+  面向对象.vcxproj -> D:\C++_Primer\面向对象\Debug\面向对象.exe
+  面向对象.vcxproj -> D:\C++_Primer\面向对象\Debug\面向对象.pdb (Partial PDB)
